@@ -1,3 +1,7 @@
 primeira linha 
 segunda linha 
+<<<<<<< HEAD
 terceira linha  na branch master
+=======
+terceira linha  na branch developer
+>>>>>>> developer
