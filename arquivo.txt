@@ -1,7 +1,11 @@
 primeira linha 
 segunda linha 
 <<<<<<< HEAD
+<<<<<<< HEAD
 terceira linha  na branch master
 =======
 terceira linha  na branch developer
 >>>>>>> developer
+=======
+>>>>>>> parent of 5f1565b (Terceiro commit na branch master)
+quarta linha  na branch master
